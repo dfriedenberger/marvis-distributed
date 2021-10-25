@@ -36,8 +36,7 @@ Send me your favorites. I will taste them. If I find them good they will be adde
 
 ## Authors and acknowledgment
 
-- Used recipes format from  https://github.com/cnstoll/Grocery-Recipe-Format
-- Collage is made with PowerPoint
+- [marvis](https://github.com/diselab/marvis)
 - For readme file I used format from https://www.makeareadme.com/
 
 ## License
